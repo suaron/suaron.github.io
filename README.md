@@ -1,6 +1,6 @@
-# Private Google App
+# My Personal App
 
-A personal-use Google app, published publicly. Static site on GitHub Pages: https://suaron.github.io/app/
+My Personal App: a personal-use app that works with Google account data. Static site on GitHub Pages: https://suaron.github.io/
 
 ## Structure
 
