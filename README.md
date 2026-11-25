@@ -15,8 +15,7 @@ My Personal App: a personal-use app that works with Google account data. Static 
 │   ├── css/style.css
 │   ├── js/main.js
 │   └── images/logo.svg
-├── favicon.svg
-└── .github/workflows/pages.yml  # deploys to Pages on push to main
+└── favicon.svg
 ```
 
 ## Local preview
